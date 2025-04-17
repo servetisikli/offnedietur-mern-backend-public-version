@@ -1,7 +1,3 @@
-# OffnedieTur MERN Backend (Public Version)
-
-![OffnedieTur Logo](https://offnedietur.de/img/logo.png)
-
 ## 📋 Project Overview
 
 This is the backend API for OffnedieTur, a service management system developed using the MERN stack (MongoDB, Express, React, Node.js). This backend handles user authentication, contact forms, travel requests, support tickets, and notifications for the [offnedietur.de](https://offnedietur.de) website.
